@@ -1,0 +1,14 @@
+{
+    "name": "asus/uts",
+    "description": "UTS Raihan Alya Shafira",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "raihanalyas",
+            "email": "raihanalyashafir@gmail.com"
+        }
+    ]
+}

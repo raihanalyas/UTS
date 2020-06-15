@@ -1,0 +1,205 @@
+|
+.utama {
+	width: 1020px;
+	margin: auto;
+	border: 1px solid white;
+	background-color: lightgray;
+	font-family: century gothic;
+
+}
+.kepala {
+}
+
+
+td {
+	text-align: left;
+}
+
+th {
+	text-align: center;
+}
+
+h1 {
+	color: salmon;
+	margin-bottom: 10px;
+	font-size: 50px;
+	margin-top: 40px;
+}
+
+h2 {
+	color: salmon;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+
+.menu  {
+	padding: 10px;
+	background-color: salmon;
+	color: white;
+	text-decoration: none;
+	top: 0px;
+	position: sticky;
+	margin-bottom: 20px;
+	font-family: century gothic;
+	text-align: left;
+}
+
+.menu a {
+	padding: 10px;
+	color:white;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: white ;
+	color: salmon;
+
+}
+
+
+.akun{
+	position: absolute;
+	top: 0px;
+	right: 80px;
+
+}
+.logout{
+	position: absolute;
+	top: 0px;
+	right: 10px;
+
+}
+
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+
+}
+
+.user_input {
+	background-color: indianred;
+	color: white;
+	font-family: century gothic;
+}
+
+
+table {
+	
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid none;
+	border-collapse: collapse;
+	box-sizing : border-box;
+	text-align: center;
+	align-self: center;
+	background-color: seashell;
+	font-family: century gothic;
+}
+
+table th {
+	text-align: center;
+	border: 1px solid lightgray;
+	padding: 10px;
+	background-color: salmon;
+	color: #ffffff;
+	font-family: century gothic;
+}
+
+table td {
+	border: 1px solid lightgray;
+	padding:10px;
+
+}
+
+
+
+.footer {
+	padding: 10px;
+	background-color: salmon;
+	bottom: 0px;
+	color: white;
+	position: sticky;
+	font-family: calibri;
+}
+
+
+
+.tmbl {
+	background-color: salmon;
+	color: white;
+	font-family: century gothic;
+}
+
+.tmbl_ker{
+	background-color: indianred;
+	color: white;
+	margin-left: 80px;
+	width: 100px;
+}
+
+
+.loginform  table {
+	background-color: lightgray;
+	position: relative;
+	margin: auto;
+	text-align: center;
+	width: 300px;
+	border: none;
+	border: 1px solid lightgray;
+}
+
+.login {
+	text-align: center;
+	background-color: salmon;
+	width: auto;
+}
+
+.formlogin_name {
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-top: 10px;
+}
+
+.formlogin_pass {
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-top: -10px;
+	margin-bottom: 5px;
+}
+
+
+.kotaklogin {
+	text-align: center;
+	width: 300px;
+	margin: 80px auto;
+	padding: 30px 20px;
+	background-color: lightgray;
+}
+
+p {
+	font-family: Franklin Gothic Heavy;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	color: salmon;
+}
+
+.tombollogin{
+	background: salmon;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+	margin-bottom: 40px;
+}
+
+
